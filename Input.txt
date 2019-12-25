@@ -1,0 +1,4 @@
+привет, мир
+У меня 2 яблока
+hello world
+I have two apples
